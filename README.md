@@ -3,7 +3,7 @@
   <p><b>Course Assignments & Final Project • University of Genoa</b></p>
 </div>
 
-Welcome to my repository for the **Distributed Computing (Large Scale Computing)** course. This repository contains a collection of assignments, discrete event simulations, PySpark data processing scripts, and the final course project.
+Welcome to my repository for the **Distributed Computing** course. This repository contains a collection of discrete event simulations and PySpark data processing scripts.
 
 Everything has been refactored, polished, and organized to ensure clean readability and execution.
 
@@ -11,7 +11,7 @@ Everything has been refactored, polished, and organized to ensure clean readabil
 
 ## 📁 Repository Structure
 
-The repository is logically divided into three main sections: **PySpark Assignments**, **Simulation Assignments**, and the **Final Project**.
+The repository is logically divided into two main sections: **PySpark Assignments** and **Simulation Assignments**.
 
 ### 1. 🧮 PySpark Assignments (`/pyspark_assignments`)
 
@@ -38,16 +38,7 @@ Custom simulation engines built in Python to model distributed systems, network 
 * **`workloads.py`**: Parses and normalizes real-world high-performance computing traces (Mustang cluster) to feed into the simulations.
 * **`configs/`**: Contains `.cfg` configuration files (`client_server.cfg`, `p2p.cfg`) defining the cluster properties for the storage simulations.
 
----
 
-### 3. 🚀 Final Project (`/final_project`)
-
-The culminating project of the course, focused on analyzing a large-scale network graph.
-
-* **`superhero_network_analysis.ipynb`**: The main project notebook containing the methodology, PySpark execution, and visual analysis of the dataset.
-* **`dataset/`**: Contains `vertices.csv` and `edges.csv` representing the network topology (e.g., nodes and connection edges for the "Superhero Fans" network).
-
----
 
 ## 🛠️ Setup & Execution
 
