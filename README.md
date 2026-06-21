@@ -1,15 +1,15 @@
 <div align="center">
   <h1>🌐 Distributed Computing</h1>
-  <p><b>Course Assignments & Final Project • University of Genoa</b></p>
+  <p><b>Course Assignments & Final Project • University of Genova</b></p>
   
   ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
   ![PySpark](https://img.shields.io/badge/Framework-PySpark-orange.svg)
   ![Hadoop](https://img.shields.io/badge/Data-HDFS-yellow.svg)
   ![Simulation](https://img.shields.io/badge/Domain-Simulation-green.svg)
-  ![University](https://img.shields.io/badge/University-Genoa-red.svg)
+  ![University](https://img.shields.io/badge/University-Genova-red.svg)
 </div>
 
-Welcome to my repository for the **Distributed Computing** course. This repository contains a collection of discrete event simulations and PySpark data processing scripts.
+Welcome to my repository for the **Distributed Computing** course at the **University of Genova**. This repository contains a collection of discrete event simulations and PySpark data processing scripts.
 
 Everything has been refactored, polished, and organized to ensure clean readability and execution.
 
