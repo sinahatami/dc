@@ -49,7 +49,7 @@ Custom simulation engines built in Python to model distributed systems, network 
 ## 🛠️ Setup & Execution
 
 ### Running the Python Simulations
-The simulations rely on standard Python libraries. `storage.py` requires the `humanfriendly` library, and `sir.py` requires `matplotlib`.
+The simulations rely on standard Python libraries. `storage.py` requires the `humanfriendly` library, and `sir.py` requires `matplotlib`. The Jupyter notebooks require `pyspark`, `nltk`, and `confluent-kafka`.
 
 ```bash
 # Set up a virtual environment
@@ -57,7 +57,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Install dependencies
-pip install matplotlib humanfriendly
+pip install -r requirements.txt
 
 # Run the simulations
 python simulation_assignments/sir.py
